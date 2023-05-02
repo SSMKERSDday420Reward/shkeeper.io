@@ -1,5 +1,5 @@
 bcrypt==3.2.2
-Flask==2.2.2
+Flask==2.3.2
 Flask-APScheduler==1.12.4
 Flask-Session==0.4.0
 Flask-SQLAlchemy==2.5.1
